@@ -1,5 +1,4 @@
 local M = {}
-local dbg = require("dbg")
 local textredux = require("textredux")
 local socket = require("socket")
 
